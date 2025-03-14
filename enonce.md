@@ -2,7 +2,7 @@
 
 ## Opération à faire : 
 
-- Le projet est une application bancaire très basique.
+- Le projet est une application bancaire très basique. Les controller , model , repository sont deja fait
 - L'objectif est de sécuriser l'application avec une authentification par jwt et une gestion des rôles appropriée.
 - Lancer le projet et vérifier qu'il fonctionne bien. Effectuez les correctifs nécéssaires.
 - Mettre en place les éléments de sécurité suivant : 

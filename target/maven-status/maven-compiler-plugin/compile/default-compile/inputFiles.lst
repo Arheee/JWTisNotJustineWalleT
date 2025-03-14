@@ -2,10 +2,12 @@ C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\model\Customer.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\M2iBankBackendApplication.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\repository\NoticeRepository.java
+C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\security\JwtUtil.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\controller\AdminController.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\repository\LoanRepository.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\model\AccountTransactions.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\controller\ContactController.java
+C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\config\SecurityConfig.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\model\Accounts.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\controller\LoansController.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\model\Contact.java
@@ -18,4 +20,5 @@ C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\model\Cards.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\repository\AccountsRepository.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\controller\AccountController.java
+C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\security\JwtAuthenticationFilter.java
 C:\Users\Administrateur\Desktop\Nouveau dossier\TP sécurité\src\main\java\com\m2ibank\model\Loans.java
